@@ -8,7 +8,7 @@ image: "about_cover.png"
 ## Me
 An Information Security student.   
 A daydreamer.  
-An ADHD mind
+An ADHD mind.  
 And probably the weakest amateur boxer.
 
 ## Story
