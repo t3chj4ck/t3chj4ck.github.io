@@ -1,0 +1,4 @@
+baseURL = 'https://t3chj4ck.github.io/'
+locale = 'en-us'
+title = 'my blog'
+theme = "digio-theme"
