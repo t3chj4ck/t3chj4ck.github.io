@@ -1,0 +1,46 @@
+/* 自定义菜单项字体大小和颜色 */
+#main-menu li a {
+  font-size: 1.8rem;
+  /* 增大字体 */
+}
+
+/* 仅在深色模式下改为纯白色，避免亮色模式下不可见 */
+[data-scheme="dark"] #main-menu li a {
+  color: #ffffff !important;
+}
+
+/* 优化封面图片布局，应用于列表页和文章详情页 */
+.article-image,
+.article-header .article-image {
+  margin-bottom: 2rem;
+  overflow: hidden;
+  border-radius: 16px;
+  line-height: 0;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto !important;
+    max-height: 30vh;
+    /* 限制封面图最大高度为视口高度的 30% */
+    object-fit: contain !important;
+    transition: transform 0.5s ease;
+  }
+
+  &:hover img {
+    transform: scale(1.03);
+  }
+}
+
+/* 优化文章内容中图片的显示 */
+.article-content {
+  img {
+    max-width: 100%;
+    max-height: 800px;
+    /* 限制内容图片最大高度 */
+    width: auto !important;
+    margin: 0 auto;
+    /* 居中显示 */
+    display: block;
+  }
+}

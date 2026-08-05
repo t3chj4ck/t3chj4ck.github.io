@@ -1,4 +1,37 @@
 baseURL = 'https://t3chj4ck.github.io/'
 locale = 'en-us'
-title = 'my blog'
-theme = "digio-theme"
+title = 'The guy'
+theme = "hugo-theme-stack"
+
+
+[params.sidebar]
+    avatar = "avatar.png"
+    subtitle = '"You must" is the name of the great dragon. But the spirit of the lion says: "I will."'
+
+
+
+
+[[menu.main]]
+    name = "Tech"
+    url = "/post/tech/"
+    weight = 1
+
+[[menu.main]]
+    name = "Philo"
+    url = "/post/philo/"
+    weight = 2
+
+[[menu.main]]
+    name = "Idea"
+    url = "/post/idea/"
+    weight = 3
+
+[[menu.main]]
+    name = "Recent"
+    url = "/post/"
+    weight = 4
+
+[[menu.main]]
+    name = "About Me"
+    url = "/post/about/"
+    weight = 5

@@ -1,52 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>my blog</title>
-		<link>http://localhost:1313/</link>
-		<description>Recent content on my blog</description>
-		<generator>Hugo</generator>
-		<language>en-us</language>
-		
-		
-		
-		
-			<lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
-		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>example1</title>
-				<link>http://localhost:1313/write/test/</link>
-				<pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/write/test/</guid>
-				<description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;unordered list item 1&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 2&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>example2</title>
-				<link>http://localhost:1313/write/test2/</link>
-				<pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/write/test2/</guid>
-				<description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;unordered list item 1&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 2&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>example3</title>
-				<link>http://localhost:1313/open-source/test3/</link>
-				<pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/open-source/test3/</guid>
-				<description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;unordered list item 1&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 2&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>example4</title>
-				<link>http://localhost:1313/open-source/test4/</link>
-				<pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/open-source/test4/</guid>
-				<description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;unordered list item 1&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 2&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>me</title>
-				<link>http://localhost:1313/me/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/me/</guid>
-				<description></description>
-			</item>
-	</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>The guy</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on The guy</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>About Me</title>
+            <link>http://localhost:1313/post/about/</link>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/post/about/</guid>
+            <description>&lt;img src=&#34;http://localhost:1313/post/about/about_cover.png&#34; alt=&#34;Featured image of post About Me&#34; /&gt;&lt;h2 id=&#34;me&#34;&gt;Me&#xA;&lt;/h2&gt;&lt;p&gt;An Information Security student.&lt;br&gt;&#xA;A daydreamer.&lt;br&gt;&#xA;An ADHD mind&#xA;And probably the weakest amateur boxer.&lt;/p&gt;&#xA;&lt;h2 id=&#34;story&#34;&gt;Story&#xA;&lt;/h2&gt;&lt;p&gt;A tree,&lt;br&gt;&#xA;growing where mountains hide the sun.&lt;/p&gt;&#xA;&lt;p&gt;Poor soil.&lt;br&gt;&#xA;Little light.&lt;/p&gt;&#xA;&lt;p&gt;Every spring,&lt;br&gt;&#xA;the woodpeckers come.&lt;/p&gt;&#xA;&lt;p&gt;Every winter,&lt;br&gt;&#xA;the cold wind blows.&lt;/p&gt;&#xA;&lt;p&gt;It grows no stronger.&lt;/p&gt;&#xA;&lt;p&gt;Its trunk bends with the wind.&lt;br&gt;&#xA;Its bark remembers every beak.&lt;br&gt;&#xA;Its roots know the shape of stone.&lt;/p&gt;&#xA;&lt;p&gt;Still—&lt;/p&gt;&#xA;&lt;p&gt;it keeps&lt;br&gt;&#xA;a single leaf&lt;br&gt;&#xA;toward the light.&lt;/p&gt;&#xA;</description>
+        </item></channel>
 </rss>
