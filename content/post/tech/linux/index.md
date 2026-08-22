@@ -89,9 +89,10 @@ Look at mobile platforms: Android and iOS do this sandboxing well, but the price
 If you want some freedom on your Android phone, it's getting difficult.   
 Not to mention the iPhone, where it's impossible to break any limits.   
 
-On Windows, security relies 100% on Windows Defender, more like a **Disclaimer**.  
-“I told you this is not safe! but you ran it, jokes on you!”  
+On Windows, apps basically have full access to your stuff by design, you can say that's part of function, like a disclaimer.
 
+Sometimes WD might say:
+“I told you this is not safe! but you ran it, jokes on you!”
 
 Luckily, on Linux, you can get more freedom than a smartphone and more fundamental safety than Windows at the same time!   
 You just need **Flatpak** and **Wayland**.

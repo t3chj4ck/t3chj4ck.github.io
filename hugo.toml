@@ -26,10 +26,10 @@ theme = "hugo-theme-stack"
     url = "/post/idea/"
     weight = 3
 
-[[menu.main]]
-    name = "Recent"
-    url = "/post/"
-    weight = 4
+# [[menu.main]]
+#     name = "Recent"
+#     url = "/post/"
+#     weight = 4
 
 [[menu.main]]
     name = "About Me"
