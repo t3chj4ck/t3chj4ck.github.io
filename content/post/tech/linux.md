@@ -1,18 +1,18 @@
 ---
-title: "no title"
+title: 'The Tyranny of “More”'
 date: 2026-08-20
 draft: false
 ---
 
 ## experience 
-Theres one thing been bothering me for a long time:  
-im already using archlinux + hyprland for almost year,  
+Theres one thing that's been bothering me for a long time:  
+i've been using archlinux + hyprland for almost a year,  
 and i still dont feel like i truly *know* linux...  
-**I spend almost hundred hours with AI, to configure everthing agaign and again and again**.  
-while others already gets their job done one hundred times.  
+**I've spent almost hundred hours with AI, to configure everthing agaign and again and again**.  
+while others already get their job done one hundred times.  
 
-at first i using archlinux, 40% was for study linux, and 60% was to make me look like a "hacker".  
-well, who doesnt wanna say "i use arch btw"? its every kid's dream.  
+at first i was using archlinux, 40% was for study linux, and 60% was to make me look like a "hacker".  
+well, who doesn't wanna say "i use arch btw"? its every kid's dream.  
 and in the commiunity, some **Ideology** will really drown your mind,  
 in the end, to become a "larper" seems to be unavoidble.  
 
@@ -26,10 +26,10 @@ human needs desire to live on, like any Mammals would want to eat, to sleep.
 but it'll become a problem when it is impossible to be filled.  
 
 a girl wants to be "the prettiest"  
-but pretty was just a idea, theres no way to compare who or what is prettier  
+but pretty was just an idea, theres no way to compare who or what is prettier  
 
-chinese people always aguring about "what type of kungfu is the strongest?"    
-the agruing can last more than decades ,because theres simply no anwser for it    
+chinese people are always aguring about "what type of kungfu is the strongest?"    
+the agruing can last more than decades ,because theres simply no anwser to it    
 technique was just tool after all,      
 its like comparing c to rust, or python, or anyother language   
 or japanese vs english.  
@@ -43,13 +43,13 @@ But if you fall into the trap of thinking:
 "I configure my WM perfectly, so I know everything"  
 then you are chasing a ghost. That's the larper culture.  
 Sharpening the axe does not delay the woodcutting.  
-but theres no way you will be really "get ready" for work  
+but theres no way you will be really "ready" for work  
 you can always add more keybind, more script for your tools  
-in my oppion, such idea was kind of terrible,  
+in my oppion, such an idea was kind of terrible,  
 as a guy lack of Self-control ability, I cannot put myself in such enviroment 
 
 for me, what i want is just a simple, understandble tilling window manager  
-some simple keybinds, a bar with infomation all i need, and maxium screen space usage  
+some simple keybinds, a bar with infomation that all i need, and maxium screen space usage  
 
 
 
