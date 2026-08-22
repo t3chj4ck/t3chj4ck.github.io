@@ -5,17 +5,11 @@
         <description>Recent content in Posts on The guy</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 05 Aug 2026 12:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Test Redirect</title>
-            <link>http://localhost:1313/post/test-redirect/</link>
-            <pubDate>Wed, 05 Aug 2026 12:00:00 +0800</pubDate>
-            <guid>http://localhost:1313/post/test-redirect/</guid>
-            <description>&lt;p&gt;This is a test post to verify the homepage redirect functionality.&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>about me</title>
+        <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>About Me</title>
             <link>http://localhost:1313/post/about/</link>
             <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/post/about/</guid>
-            <description>&lt;img src=&#34;http://localhost:1313/post/about/about_cover.png&#34; alt=&#34;Featured image of post about me&#34; /&gt;&lt;h2 id=&#34;heres-some-title&#34;&gt;heres some title&#xA;&lt;/h2&gt;&lt;p&gt;here goes some text&lt;/p&gt;&#xA;</description>
+            <description>&lt;img src=&#34;http://localhost:1313/post/about/about_cover.png&#34; alt=&#34;Featured image of post About Me&#34; /&gt;&lt;h2 id=&#34;me&#34;&gt;Me&#xA;&lt;/h2&gt;&lt;p&gt;An Information Security student.&lt;br&gt;&#xA;A daydreamer.&lt;br&gt;&#xA;An ADHD mind.&lt;br&gt;&#xA;And probably the weakest amateur boxer.&lt;/p&gt;&#xA;&lt;h2 id=&#34;story&#34;&gt;Story&#xA;&lt;/h2&gt;&lt;p&gt;A tree,&lt;br&gt;&#xA;growing where mountains hide the sun.&lt;/p&gt;&#xA;&lt;p&gt;Poor soil.&lt;br&gt;&#xA;Little light.&lt;/p&gt;&#xA;&lt;p&gt;Every spring,&lt;br&gt;&#xA;the woodpeckers come.&lt;/p&gt;&#xA;&lt;p&gt;Every winter,&lt;br&gt;&#xA;the cold wind blows.&lt;/p&gt;&#xA;&lt;p&gt;It grows no stronger.&lt;/p&gt;&#xA;&lt;p&gt;Its trunk bends with the wind.&lt;br&gt;&#xA;Its bark remembers every beak.&lt;br&gt;&#xA;Its roots know the shape of stone.&lt;/p&gt;&#xA;&lt;p&gt;Still—&lt;/p&gt;&#xA;&lt;p&gt;it keeps&lt;br&gt;&#xA;a single leaf&lt;br&gt;&#xA;toward the light.&lt;/p&gt;&#xA;</description>
         </item></channel>
 </rss>
