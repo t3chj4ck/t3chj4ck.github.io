@@ -2,6 +2,7 @@
 title: 'The Tyranny of “More”'
 date: 2026-08-20
 draft: false
+image: "archuser.jpg"
 ---
 
 ## experience 
